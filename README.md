@@ -79,7 +79,7 @@ bash npm start
 
 The application will be available at:
 
-bash http://localhost:3000 
+
 
 
 
